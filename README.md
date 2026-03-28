@@ -42,5 +42,5 @@ Pode sair da fila.
 Objetivo: organizar atendimento sem aglomeração ou confusão
 
 #### TELA 6: Avaliação
-Após a experiência, o usuário avalia o bar com estrelas ⭐
+Após a experiência, o usuário avalia o bar com estrelas
 Objetivo: feedback e reputação do local.
